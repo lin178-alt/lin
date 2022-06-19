@@ -76,3 +76,8 @@
 
 指令：`/天气+城市名`
 
+# 6.历史上的今天
+![image](https://user-images.githubusercontent.com/80562116/174469824-458d36ba-f283-457a-bbfa-e19c62134f9b.png)
+
+指令：/历史上的今天
+
